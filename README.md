@@ -3,12 +3,12 @@
 ***
 Hi, i'm Ayoster.
 ***
-I share some of my work.. Like discord bot.
-All is open source :)
+h1 I share some of my work.. Like discord bot.
+h2 All is open source :)
 
 ## FR - Français
 ***
 Salut, je suis Ayoster.
 ***
-Je partage quelques de mes projets.. Comme les robots discord.
-Tout est open source :)
+h1 Je partage quelques de mes projets.. Comme les robots discord.
+h2 Tout est open source :)
